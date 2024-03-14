@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Game of thrones",
+    "coverImage": "image.jpg",
+    "category": "Tv series",
+    "genre": "Adventure, War, Action",
+    "seasons": {
+      "season1": {
+        "episode1": {
+          "episodeID": "S01E01",
+          "downloadLink": "season 1 episode 1 download link here"
+        },
+        "episode2": {
+          "episodeID": "S01E02",
+          "downloadLink": "season 1 episode 2 download link here"
+        },
+        "episode3": {
+          "episodeID": "S01E03",
+          "downloadLink": "season 1 episode 3 download link here"
+        },
+        "episode4": {
+          "episodeID": "S01E04",
+          "downloadLink": "season 1 episode 4 download link here"
+        },
+        "episode5": {
+          "episodeID": "S01E05",
+          "downloadLink": "season 1 episode 5 download link here"
+        }
+      },
+      "season2": {
+        "episode1": {
+          "episodeID": "S02E01",
+          "downloadLink": "season 2 episode 1 download link here"
+        },
+        "episode2": {
+          "episodeID": "S02E02",
+          "downloadLink": "season 2 episode 2 download link here"
+        },
+        "episode3": {
+          "episodeID": "S02E03",
+          "downloadLink": "season 2 episode 3 download link here"
+        },
+        "episode4": {
+          "episodeID": "S02E04",
+          "downloadLink": "season 2 episode 4 download link here"
+        },
+        "episode5": {
+          "episodeID": "S02E05",
+          "downloadLink": "season 2 episode 5 download link here"
+        }
+      }
+    },
+    "storyLine": "stoyline here"
+  },
+  {
+    "id": 2,
+    "title": "Sandman",
+    "coverImage": "image.jpg",
+    "category": "Tv series",
+    "genre": "Adventure, Fiction, Action",
+    "seasons": {
+      "season1": {
+        "episode1": {
+          "episodeID": "S01E01",
+          "downloadLink": "season 1 episode 1 download link here"
+        },
+        "episode2": {
+          "episodeID": "S01E02",
+          "downloadLink": "season 1 episode 2 download link here"
+        },
+        "episode3": {
+          "episodeID": "S01E03",
+          "downloadLink": "season 1 episode 3 download link here"
+        },
+        "episode4": {
+          "episodeID": "S01E04",
+          "downloadLink": "season 1 episode 4 download link here"
+        },
+        "episode5": {
+          "episodeID": "S01E05",
+          "downloadLink": "season 1 episode 5 download link here"
+        },
+        "episode6": {
+          "episodeID": "S01E06",
+          "downloadLink": "season 1 episode 6 download link here"
+        },
+        "episode7": {
+          "episodeID": "S01E07",
+          "downloadLink": "season 1 episode 7 download link here"
+        }
+      }
+    },
+    "storyLine": "stoyline here"
+  }
+]
